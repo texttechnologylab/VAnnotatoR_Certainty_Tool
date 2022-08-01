@@ -1,0 +1,939 @@
+Philanthropin 1 || 0 || 3
+Aussenfassade || null
+Aussenfassade|4. OG_L_Lib.013|Dupli|0.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Aussenfassade_L_Lib.013|Dupli|193.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Dach_L_Lib.013|Dupli|192.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Dreier_Fenster_Fassaden_L_Lib.013|Dupli|191.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.034|Dupli|1.13.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.034|Dupli|1.14.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.034|Dupli|1.15.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.034|Dupli|1.16.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.17.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.18.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.20.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.21.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.22.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.23.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.24.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.25.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.26.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.27.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.28.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.29.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.30.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.31.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.32.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.33.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.34.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.35.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.36.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.37.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.83.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.84.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.85.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.86.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.87.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.88.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.89.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.90.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.94.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.95.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.96.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.97.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.98.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.035|Dupli|1.99.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.036|Dupli|1.19.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.036|Dupli|1.64.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.036|Dupli|1.65.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.38.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.39.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.40.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.41.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.42.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.43.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.037|Dupli|1.44.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.038|Dupli|1.45.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.038|Dupli|1.46.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.038|Dupli|1.47.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.039|Dupli|1.48.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.039|Dupli|1.49.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.039|Dupli|1.50.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.039|Dupli|1.51.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.039|Dupli|1.52.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.53.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.54.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.55.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.56.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.57.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.040|Dupli|1.58.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.041|Dupli|4.59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.041|Dupli|4.60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.042|Dupli|1.61.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.042|Dupli|1.62.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.042|Dupli|1.63.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.043|Dupli|1.66.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.044|Dupli|1.67.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.044|Dupli|1.68.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.044|Dupli|1.69.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.045|Dupli|1.70.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.045|Dupli|1.71.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.045|Dupli|1.72.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.045|Dupli|1.73.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.74.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.75.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.76.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.77.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.78.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.046|Dupli|1.79.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.80.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.81.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.82.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.163.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.164.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.165.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.047|Dupli|1.166.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.048|Dupli|1.91.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.048|Dupli|1.92.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.048|Dupli|1.93.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.100.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.101.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.102.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.103.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.104.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.105.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.106.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.107.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.108.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.109.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.110.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.049|Dupli|1.111.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.112.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.113.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.114.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.115.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.116.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.117.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.118.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.119.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.120.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.121.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.122.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.123.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.124.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.125.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.126.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.127.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.128.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.129.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.130.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.131.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.132.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.133.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.134.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.135.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.136.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.137.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.138.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.050|Dupli|1.139.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.140.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.141.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.142.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.143.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.144.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.145.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.146.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.147.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.148.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.149.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.150.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.151.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.152.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.153.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.154.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.155.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.179.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.180.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.181.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.182.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.183.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.184.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.185.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.186.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.187.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.188.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.189.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.051|Dupli|3.190.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.052|Dupli|1.156.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.052|Dupli|1.157.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.052|Dupli|1.158.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.159.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.160.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.161.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.162.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.167.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.168.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.169.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.170.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.053|Dupli|3.171.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.054|Dupli|3.172.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.054|Dupli|3.173.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.054|Dupli|3.174.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.054|Dupli|3.175.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.055|Dupli|3.176.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.055|Dupli|3.177.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.055|Dupli|3.178.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.056|Dupli|3.195.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.056|Dupli|3.196.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster Rahmen_L_Lib.056|Dupli|3.197.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_1_L_Lib.041|Dupli|0.59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_1_L_Lib.041|Dupli|0.60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_2_L_Lib.041|Dupli|1.59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_2_L_Lib.041|Dupli|1.60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_3_L_Lib.041|Dupli|3.59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_3_L_Lib.041|Dupli|3.60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_4_L_Lib.041|Dupli|2.59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_4_L_Lib.041|Dupli|2.60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.001_L_Lib.013|Dupli|43.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.002_L_Lib.013|Dupli|42.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.003_L_Lib.013|Dupli|41.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.004_L_Lib.013|Dupli|40.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.005_L_Lib.013|Dupli|39.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm.006_L_Lib.013|Dupli|38.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Anbau_Rueckseite_Klein_65cm_L_Lib.013|Dupli|44.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Aula.001_L_Lib.013|Dupli|177.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Aula.002_L_Lib.013|Dupli|176.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Aula_L_Lib.013|Dupli|178.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Basic_1er_65cm.001_L_Lib.013|Dupli|68.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Basic_1er_65cm.002_L_Lib.013|Dupli|67.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Basic_1er_65cm_L_Lib.013|Dupli|69.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Basic_1er_80cm_L_Lib.013|Dupli|66.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Dach_4er.001_L_Lib.013|Dupli|59.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Dach_4er_L_Lib.013|Dupli|60.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_EG.001_L_Lib.013|Dupli|196.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_EG.002_L_Lib.013|Dupli|195.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_EG_L_Lib.013|Dupli|197.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.001_L_Lib.013|Dupli|138.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.002_L_Lib.013|Dupli|137.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.003_L_Lib.013|Dupli|136.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.004_L_Lib.013|Dupli|135.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.005_L_Lib.013|Dupli|134.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.006_L_Lib.013|Dupli|133.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.007_L_Lib.013|Dupli|132.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.008_L_Lib.013|Dupli|131.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.009_L_Lib.013|Dupli|130.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.010_L_Lib.013|Dupli|129.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.011_L_Lib.013|Dupli|128.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.012_L_Lib.013|Dupli|127.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.013_L_Lib.013|Dupli|126.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.014_L_Lib.013|Dupli|125.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.015_L_Lib.013|Dupli|124.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.016_L_Lib.013|Dupli|115.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.017_L_Lib.013|Dupli|123.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.018_L_Lib.013|Dupli|114.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.019_L_Lib.013|Dupli|122.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.020_L_Lib.013|Dupli|121.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.021_L_Lib.013|Dupli|120.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.022_L_Lib.013|Dupli|119.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.023_L_Lib.013|Dupli|118.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.024_L_Lib.013|Dupli|113.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.025_L_Lib.013|Dupli|117.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.026_L_Lib.013|Dupli|112.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden.027_L_Lib.013|Dupli|116.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Gang_Norden_L_Lib.013|Dupli|139.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_45cm.001_L_Lib.013|Dupli|46.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_45cm.002_L_Lib.013|Dupli|45.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_45cm_L_Lib.013|Dupli|47.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.001_L_Lib.013|Dupli|98.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.002_L_Lib.013|Dupli|97.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.003_L_Lib.013|Dupli|96.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.004_L_Lib.013|Dupli|95.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.005_L_Lib.013|Dupli|94.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.006_L_Lib.013|Dupli|90.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.007_L_Lib.013|Dupli|89.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.008_L_Lib.013|Dupli|88.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.009_L_Lib.013|Dupli|87.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.010_L_Lib.013|Dupli|86.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.011_L_Lib.013|Dupli|85.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.012_L_Lib.013|Dupli|84.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.013_L_Lib.013|Dupli|83.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.014_L_Lib.013|Dupli|37.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.015_L_Lib.013|Dupli|36.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.016_L_Lib.013|Dupli|35.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.017_L_Lib.013|Dupli|34.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.018_L_Lib.013|Dupli|33.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.019_L_Lib.013|Dupli|32.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.020_L_Lib.013|Dupli|31.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.021_L_Lib.013|Dupli|30.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.022_L_Lib.013|Dupli|29.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.023_L_Lib.013|Dupli|28.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.024_L_Lib.013|Dupli|27.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.025_L_Lib.013|Dupli|26.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.026_L_Lib.013|Dupli|25.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.027_L_Lib.013|Dupli|24.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.028_L_Lib.013|Dupli|23.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.029_L_Lib.013|Dupli|22.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.030_L_Lib.013|Dupli|21.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.031_L_Lib.013|Dupli|20.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.032_L_Lib.013|Dupli|18.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm.033_L_Lib.013|Dupli|17.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_65cm_L_Lib.013|Dupli|99.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.001_L_Lib.013|Dupli|110.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.002_L_Lib.013|Dupli|109.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.003_L_Lib.013|Dupli|108.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.004_L_Lib.013|Dupli|107.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.005_L_Lib.013|Dupli|106.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.006_L_Lib.013|Dupli|105.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.007_L_Lib.013|Dupli|104.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.008_L_Lib.013|Dupli|103.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.009_L_Lib.013|Dupli|102.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.010_L_Lib.013|Dupli|101.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm.011_L_Lib.013|Dupli|100.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Klein_80cm_L_Lib.013|Dupli|111.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.140.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.141.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.142.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.143.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.144.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.145.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.146.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.147.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.148.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.149.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.150.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.151.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.152.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.153.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.154.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.155.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.179.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.180.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.181.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.182.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.183.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.184.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.185.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.186.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.187.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.188.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.189.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.051|Dupli|1.190.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.159.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.160.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.161.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.162.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.167.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.168.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.169.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.170.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.053|Dupli|1.171.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.054|Dupli|1.172.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.054|Dupli|1.173.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.054|Dupli|1.174.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.054|Dupli|1.175.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.055|Dupli|1.176.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.055|Dupli|1.177.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.055|Dupli|1.178.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.056|Dupli|1.195.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.056|Dupli|1.196.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Links_L_Lib.056|Dupli|1.197.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini.001_L_Lib.013|Dupli|57.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini.002_L_Lib.013|Dupli|56.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini.003_L_Lib.013|Dupli|55.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini.004_L_Lib.013|Dupli|54.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini.005_L_Lib.013|Dupli|53.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_1er.001_L_Lib.013|Dupli|51.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_1er.002_L_Lib.013|Dupli|50.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_1er.003_L_Lib.013|Dupli|49.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_1er.004_L_Lib.013|Dupli|48.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_1er_L_Lib.013|Dupli|52.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mini_L_Lib.013|Dupli|58.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.034|Dupli|0.13.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.034|Dupli|0.14.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.034|Dupli|0.15.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.034|Dupli|0.16.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.17.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.18.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.20.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.21.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.22.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.23.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.24.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.25.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.26.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.27.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.28.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.29.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.30.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.31.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.32.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.33.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.34.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.35.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.36.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.37.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.83.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.84.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.85.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.86.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.87.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.88.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.89.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.90.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.94.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.95.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.96.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.97.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.98.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.035|Dupli|0.99.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.036|Dupli|0.19.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.036|Dupli|0.64.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.036|Dupli|0.65.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.38.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.39.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.40.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.41.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.42.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.43.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.037|Dupli|0.44.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.038|Dupli|0.45.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.038|Dupli|0.46.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.038|Dupli|0.47.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.039|Dupli|0.48.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.039|Dupli|0.49.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.039|Dupli|0.50.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.039|Dupli|0.51.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.039|Dupli|0.52.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.53.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.54.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.55.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.56.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.57.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.040|Dupli|0.58.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.042|Dupli|0.61.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.042|Dupli|0.62.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.042|Dupli|0.63.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.043|Dupli|0.66.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.044|Dupli|0.67.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.044|Dupli|0.68.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.044|Dupli|0.69.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.045|Dupli|0.70.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.045|Dupli|0.71.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.045|Dupli|0.72.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.045|Dupli|0.73.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.74.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.75.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.76.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.77.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.78.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.046|Dupli|0.79.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.80.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.81.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.82.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.163.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.164.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.165.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.047|Dupli|0.166.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.048|Dupli|0.91.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.048|Dupli|0.92.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.048|Dupli|0.93.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.100.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.101.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.102.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.103.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.104.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.105.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.106.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.107.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.108.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.109.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.110.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.049|Dupli|0.111.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.112.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.113.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.114.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.115.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.116.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.117.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.118.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.119.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.120.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.121.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.122.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.123.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.124.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.125.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.126.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.127.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.128.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.129.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.130.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.131.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.132.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.133.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.134.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.135.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.136.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.137.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.138.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.050|Dupli|0.139.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.140.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.141.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.142.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.143.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.144.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.145.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.146.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.147.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.148.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.149.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.150.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.151.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.152.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.153.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.154.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.155.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.179.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.180.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.181.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.182.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.183.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.184.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.185.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.186.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.187.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.188.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.189.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.190.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.052|Dupli|0.156.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.052|Dupli|0.157.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.052|Dupli|0.158.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.159.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.160.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.161.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.162.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.167.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.168.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.169.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.170.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.053|Dupli|2.171.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.054|Dupli|2.172.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.054|Dupli|2.173.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.054|Dupli|2.174.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.054|Dupli|2.175.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.055|Dupli|2.176.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.055|Dupli|2.177.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.055|Dupli|2.178.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.056|Dupli|2.195.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.056|Dupli|2.196.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Mitte_L_Lib.056|Dupli|2.197.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.140.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.141.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.142.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.143.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.144.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.145.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.146.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.147.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.148.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.149.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.150.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.151.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.152.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.153.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.154.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.155.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.179.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.180.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.181.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.182.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.183.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.184.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.185.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.186.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.187.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.188.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.189.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.190.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.159.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.160.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.161.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.162.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.167.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.168.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.169.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.170.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.053|Dupli|0.171.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.054|Dupli|0.172.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.054|Dupli|0.173.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.054|Dupli|0.174.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.054|Dupli|0.175.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.055|Dupli|0.176.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.055|Dupli|0.177.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.055|Dupli|0.178.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.056|Dupli|0.195.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.056|Dupli|0.196.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Rechts_L_Lib.056|Dupli|0.197.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Sehr_Klein_65cm.001_L_Lib.013|Dupli|62.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Sehr_Klein_65cm.002_L_Lib.013|Dupli|61.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Sehr_Klein_65cm_L_Lib.013|Dupli|63.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.001_L_Lib.013|Dupli|189.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.002_L_Lib.013|Dupli|188.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.003_L_Lib.013|Dupli|187.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.004_L_Lib.013|Dupli|186.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.005_L_Lib.013|Dupli|185.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.006_L_Lib.013|Dupli|184.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.007_L_Lib.013|Dupli|183.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.008_L_Lib.013|Dupli|182.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.009_L_Lib.013|Dupli|181.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.010_L_Lib.013|Dupli|180.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.011_L_Lib.013|Dupli|179.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.012_L_Lib.013|Dupli|155.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.013_L_Lib.013|Dupli|154.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.014_L_Lib.013|Dupli|153.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.015_L_Lib.013|Dupli|152.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.016_L_Lib.013|Dupli|151.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.017_L_Lib.013|Dupli|150.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.018_L_Lib.013|Dupli|149.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.019_L_Lib.013|Dupli|148.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.020_L_Lib.013|Dupli|147.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.021_L_Lib.013|Dupli|146.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.022_L_Lib.013|Dupli|145.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.023_L_Lib.013|Dupli|144.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.024_L_Lib.013|Dupli|143.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.025_L_Lib.013|Dupli|142.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.026_L_Lib.013|Dupli|141.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard.027_L_Lib.013|Dupli|140.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.001_L_Lib.013|Dupli|165.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.002_L_Lib.013|Dupli|164.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.003_L_Lib.013|Dupli|163.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.004_L_Lib.013|Dupli|82.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.005_L_Lib.013|Dupli|81.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm.006_L_Lib.013|Dupli|80.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_65cm_L_Lib.013|Dupli|166.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_80cm.001_L_Lib.013|Dupli|92.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_80cm.002_L_Lib.013|Dupli|91.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_80cm_L_Lib.013|Dupli|93.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_65cm.001_L_Lib.013|Dupli|72.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_65cm.002_L_Lib.013|Dupli|71.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_65cm.003_L_Lib.013|Dupli|70.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_65cm_L_Lib.013|Dupli|73.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm.001_L_Lib.013|Dupli|78.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm.002_L_Lib.013|Dupli|77.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm.003_L_Lib.013|Dupli|76.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm.004_L_Lib.013|Dupli|75.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm.005_L_Lib.013|Dupli|74.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_1er_schmaler_80cm_L_Lib.013|Dupli|79.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.001_L_Lib.013|Dupli|170.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.002_L_Lib.013|Dupli|169.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.003_L_Lib.013|Dupli|168.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.004_L_Lib.013|Dupli|162.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.005_L_Lib.013|Dupli|167.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.006_L_Lib.013|Dupli|161.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.007_L_Lib.013|Dupli|160.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm.008_L_Lib.013|Dupli|159.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_65cm_L_Lib.013|Dupli|171.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Standard_L_Lib.013|Dupli|190.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Osten.001_L_Lib.013|Dupli|174.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Osten.002_L_Lib.013|Dupli|173.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Osten.003_L_Lib.013|Dupli|172.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Osten_L_Lib.013|Dupli|175.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Westen.001_L_Lib.013|Dupli|64.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Westen.002_L_Lib.013|Dupli|19.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Westen_L_Lib.013|Dupli|65.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Zentrum.001_L_Lib.013|Dupli|157.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Zentrum.002_L_Lib.013|Dupli|156.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Treppenhaus_Zentrum_L_Lib.013|Dupli|158.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Vorhalle.001_L_Lib.013|Dupli|15.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Vorhalle.002_L_Lib.013|Dupli|14.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Vorhalle.003_L_Lib.013|Dupli|13.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Fenster_Vorhalle_L_Lib.013|Dupli|16.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Kapelle_Turmdach_L_Lib.013|Dupli|1.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmdach.001_L_Lib.013|Dupli|2.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmdach_L_Lib.013|Dupli|194.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.001_L_Lib.013|Dupli|12.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.002_L_Lib.013|Dupli|9.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.003_L_Lib.013|Dupli|10.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.004_L_Lib.013|Dupli|8.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.005_L_Lib.013|Dupli|7.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.006_L_Lib.013|Dupli|6.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.007_L_Lib.013|Dupli|5.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.008_L_Lib.013|Dupli|4.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender.009_L_Lib.013|Dupli|3.0.0.0.0.0.0.0.0 || null
+Aussenfassade|Turmgelaender_L_Lib.013|Dupli|11.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende || null
+Philanthropin_Gelaende|Anlage_L_Lib.087|Dupli|24.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.000_L_Lib.087|Dupli|4.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.002_L_Lib.087|Dupli|12.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.005_L_Lib.087|Dupli|10.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.007_L_Lib.087|Dupli|9.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.008_L_Lib.087|Dupli|2.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.009_L_Lib.087|Dupli|13.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.010_L_Lib.087|Dupli|1.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.011_L_Lib.087|Dupli|0.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum.012_L_Lib.087|Dupli|11.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_klein.001_L_Lib.087|Dupli|7.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_klein.002_L_Lib.087|Dupli|6.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_klein.003_L_Lib.087|Dupli|5.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_klein.004_L_Lib.087|Dupli|3.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_klein_L_Lib.087|Dupli|8.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_L_Lib.059|Dupli|0.3.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_L_Lib.059|Dupli|0.5.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_L_Lib.059|Dupli|0.6.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_L_Lib.059|Dupli|0.7.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_L_Lib.059|Dupli|0.8.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.3.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.5.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.6.0.0.0.0.0.0.0.0 || 2
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.7.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.8.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.1.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.2.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.4.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.9.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.10.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.11.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.12.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.13.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.002_L_Lib.087|Dupli|21.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.003_L_Lib.087|Dupli|20.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.004_L_Lib.087|Dupli|19.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.005_L_Lib.087|Dupli|18.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.006_L_Lib.087|Dupli|17.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Laterne.007_L_Lib.087|Dupli|16.0.0.0.0.0.0.0.0 || 1
+Philanthropin_Gelaende|Laterne_L_Lib.087|Dupli|22.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Muelleimer_L_Lib.087|Dupli|23.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Mülleimer.001_L_Lib.087|Dupli|15.0.0.0.0.0.0.0.0 || null
+Philanthropin_Gelaende|Mülleimer.002_L_Lib.087|Dupli|14.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum || null
+Philantropin_Innenraum|Bibliothek_L_Lib.005|Dupli|11.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Bibliothek_L_Lib.018|Dupli|0.11.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.005|Dupli|10.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.017|Dupli|0.10.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.029|Dupli|21.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.032|Dupli|22.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.107|Dupli|0.21.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Norden_L_Lib.107|Dupli|0.22.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Turnhalle_zu_Vorhalle_Osten_L_Lib.005|Dupli|15.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Turnhalle_zu_Vorhalle_Osten_L_Lib.022|Dupli|0.15.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Zentral_L_Lib.029|Dupli|20.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Zentral_L_Lib.032|Dupli|21.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Zentral_L_Lib.106|Dupli|1.20.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gang_Zentral_L_Lib.106|Dupli|1.21.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_L_Lib.001|Dupli|4.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_L_Lib.061|Dupli|4.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_Pfosten_oben.000_L_Lib.001|Dupli|2.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_Pfosten_oben.000_L_Lib.061|Dupli|2.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_Pfosten_oben.001_L_Lib.001|Dupli|0.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaender_Pfosten_oben.001_L_Lib.061|Dupli|0.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaenderpfosten.000_L_Lib.001|Dupli|1.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaenderpfosten.000_L_Lib.061|Dupli|1.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaenderpfosten.001_L_Lib.001|Dupli|5.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Gelaenderpfosten.001_L_Lib.061|Dupli|5.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Lehrmittelraum_L_Lib.005|Dupli|13.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Lehrmittelraum_L_Lib.020|Dupli|0.13.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_1_L_Lib.029|Dupli|19.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_1_L_Lib.032|Dupli|15.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_1_L_Lib.105|Dupli|0.15.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_1_L_Lib.105|Dupli|0.19.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_2_L_Lib.029|Dupli|18.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_2_L_Lib.032|Dupli|14.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_2_L_Lib.104|Dupli|0.14.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_2_L_Lib.104|Dupli|0.18.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_3_L_Lib.029|Dupli|17.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_3_L_Lib.032|Dupli|13.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_3_L_Lib.103|Dupli|0.13.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_3_L_Lib.103|Dupli|0.17.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_4_L_Lib.029|Dupli|16.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_4_L_Lib.032|Dupli|12.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_4_L_Lib.102|Dupli|0.12.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Mittleres_Zimmer_4_L_Lib.102|Dupli|0.16.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.003|Dupli|0.0.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.003|Dupli|0.0.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.003|Dupli|0.2.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.003|Dupli|0.5.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.005|Dupli|0.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_1_L_Lib.032|Dupli|5.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.005|Dupli|8.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.015|Dupli|0.8.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.029|Dupli|15.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.032|Dupli|10.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.101|Dupli|0.10.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2_L_Lib.101|Dupli|0.15.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_2OG_L_Lib.012|Dupli|0.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.005|Dupli|7.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.014|Dupli|0.7.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.029|Dupli|14.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.032|Dupli|9.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.100|Dupli|0.9.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3_L_Lib.100|Dupli|0.14.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_3OG_L_Lib.012|Dupli|2.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.005|Dupli|6.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.010|Dupli|0.6.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.029|Dupli|13.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.032|Dupli|8.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.099|Dupli|0.8.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_4_L_Lib.099|Dupli|0.13.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.005|Dupli|5.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.009|Dupli|0.5.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.029|Dupli|12.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.032|Dupli|7.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.098|Dupli|0.7.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_5_L_Lib.098|Dupli|0.12.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_6_L_Lib.029|Dupli|11.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_6_L_Lib.032|Dupli|6.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_6_L_Lib.097|Dupli|0.6.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Noerdliches_Zimmer_6_L_Lib.097|Dupli|0.11.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Philanthropin_2OG_L_Lib.012|Dupli|1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Philantropin_1OG_L_Lib.012|Dupli|5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Philantropin_EG_L_Lib.012|Dupli|8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_3_L_Lib.029|Dupli|10.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_3_L_Lib.032|Dupli|11.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_3_L_Lib.096|Dupli|0.10.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_3_L_Lib.096|Dupli|0.11.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_4_L_Lib.029|Dupli|9.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_4_L_Lib.032|Dupli|20.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_4_L_Lib.095|Dupli|0.9.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_4_L_Lib.095|Dupli|0.20.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_5_L_Lib.029|Dupli|8.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_5_L_Lib.032|Dupli|19.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_5_L_Lib.094|Dupli|0.8.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_5_L_Lib.094|Dupli|0.19.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_6_L_Lib.029|Dupli|7.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_6_L_Lib.032|Dupli|18.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_6_L_Lib.093|Dupli|0.7.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_6_L_Lib.093|Dupli|0.18.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_7_L_Lib.029|Dupli|6.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_7_L_Lib.032|Dupli|17.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_7_L_Lib.092|Dupli|0.6.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_7_L_Lib.092|Dupli|0.17.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_8_L_Lib.029|Dupli|5.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_8_L_Lib.032|Dupli|16.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_8_L_Lib.091|Dupli|0.5.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Suedliches_Zimmer_8_L_Lib.091|Dupli|0.16.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Toiletten_Osten_L_Lib.005|Dupli|14.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Toiletten_Osten_L_Lib.029|Dupli|4.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Toiletten_Osten_L_Lib.032|Dupli|0.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Toiletten_Osten_L_Lib.090|Dupli|0.4.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_1_L_Lib.011|Dupli|5.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_1_L_Lib.030|Dupli|4.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_1_L_Lib.031|Dupli|4.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_1_L_Lib.033|Dupli|6.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_2_L_Lib.011|Dupli|4.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_2_L_Lib.030|Dupli|3.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_2_L_Lib.031|Dupli|3.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_1OG_zu_2OG_2_L_Lib.033|Dupli|2.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_1_L_Lib.011|Dupli|2.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_1_L_Lib.030|Dupli|2.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_1_L_Lib.031|Dupli|1.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_1_L_Lib.033|Dupli|5.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_2_L_Lib.011|Dupli|3.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_2_L_Lib.030|Dupli|1.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_2_L_Lib.031|Dupli|2.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_2OG_zu_3OG_2_L_Lib.033|Dupli|1.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_3OG_zu_4OG_1_L_Lib.011|Dupli|1.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_3OG_zu_4OG_1_L_Lib.033|Dupli|4.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_3OG_zu_4OG_2_L_Lib.011|Dupli|0.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_3OG_zu_4OG_2_L_Lib.033|Dupli|0.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_1_L_Lib.011|Dupli|7.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_1_L_Lib.030|Dupli|5.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_1_L_Lib.031|Dupli|6.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_1_L_Lib.033|Dupli|7.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_2_L_Lib.011|Dupli|6.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_2_L_Lib.030|Dupli|6.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_2_L_Lib.031|Dupli|5.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_EG_zu_1OG_2_L_Lib.033|Dupli|3.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.001|Dupli|3.0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.018|Dupli|1.11.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.022|Dupli|1.15.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.023|Dupli|1.16.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.061|Dupli|3.0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.106|Dupli|0.20.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_L_Lib.106|Dupli|0.21.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_EG_L_Lib.110|Dupli|0.5.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_EG_L_Lib.110|Dupli|0.6.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_L_Lib.109|Dupli|0.1.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_L_Lib.109|Dupli|0.2.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_L_Lib.109|Dupli|0.3.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Anbau_L_Lib.109|Dupli|0.4.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.1.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.2.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.3.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.4.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.5.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Norden_L_Lib.108|Dupli|0.6.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.0.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.1.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.2.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.3.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.4.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.5.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.6.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Osten_L_Lib.028|Dupli|0.7.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.0.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.1.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.2.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.3.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.4.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.5.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.6.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Treppenhaus_Zentrum_L_Lib.112|Dupli|0.7.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Vorhalle_Anbau_L_Lib.016|Dupli|0.9.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Vorhalle_Anbau_L_Lib.060|Dupli|0.0.9.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Vorhalle_L_Lib.002|Dupli|0.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_Vorhalle_L_Lib.024|Dupli|0.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_zu_EG_L_Lib.011|Dupli|9.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_zu_EG_L_Lib.030|Dupli|7.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_zu_EG_L_Lib.031|Dupli|0.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppe_zu_EG_L_Lib.033|Dupli|9.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Anbau_L_Lib.012|Dupli|4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Anbau_L_Lib.031|Dupli|7.4.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Norden_L_Lib.012|Dupli|3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Norden_L_Lib.030|Dupli|0.3.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Osten_L_Lib.011|Dupli|8.7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Osten_L_Lib.012|Dupli|7.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Osten_L_Lib.021|Dupli|0.14.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Zentrum_L_Lib.012|Dupli|6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Treppenhaus_Zentrum_L_Lib.033|Dupli|8.6.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turngeraete_Osten_L_Lib.005|Dupli|20.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turngeraete_Osten_L_Lib.026|Dupli|0.20.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turngeraete_Westen_L_Lib.005|Dupli|19.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turngeraete_Westen_L_Lib.025|Dupli|0.19.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turnhalle_L_Lib.005|Dupli|21.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Turnhalle_L_Lib.027|Dupli|0.21.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Anbau_L_Lib.005|Dupli|9.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Anbau_L_Lib.016|Dupli|1.9.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Osten_L_Lib.002|Dupli|1.17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Osten_L_Lib.005|Dupli|17.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Westen_L_Lib.005|Dupli|18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Vorhalle_Westen_L_Lib.024|Dupli|1.18.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.005|Dupli|4.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.008|Dupli|0.4.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.029|Dupli|3.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.032|Dupli|4.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.089|Dupli|0.3.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_1_L_Lib.089|Dupli|0.4.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.005|Dupli|3.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.007|Dupli|0.3.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.029|Dupli|2.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.032|Dupli|3.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.088|Dupli|0.2.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_2_L_Lib.088|Dupli|0.3.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.005|Dupli|2.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.006|Dupli|0.2.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.029|Dupli|0.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.032|Dupli|1.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.062|Dupli|0.0.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_3_L_Lib.111|Dupli|0.1.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.004|Dupli|0.1.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.005|Dupli|1.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.029|Dupli|1.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.032|Dupli|2.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.063|Dupli|0.1.1.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Westliches_Zimmer_4_L_Lib.063|Dupli|0.2.5.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Zimmer_des_Bibliothekars_L_Lib.005|Dupli|12.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Zimmer_des_Bibliothekars_L_Lib.019|Dupli|0.12.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Zimmer_des_Schuldirektors_L_Lib.005|Dupli|16.8.0.0.0.0.0.0.0.0 || null
+Philantropin_Innenraum|Zimmer_des_Schuldirektors_L_Lib.023|Dupli|0.16.8.0.0.0.0.0.0.0.0 || null
+ || 1 || Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.6.0.0.0.0.0.0.0.0 || Aussenfassade|Fenster_Rechts_L_Lib.051|Dupli|0.186.0.0.0.0.0.0.0.0 || False
+ || null || Philanthropin_Gelaende|Baum_normal_L_Lib.058|Dupli|0.0.6.0.0.0.0.0.0.0.0 || Aussenfassade|Fenster_Mitte_L_Lib.051|Dupli|2.186.0.0.0.0.0.0.0.0 || False

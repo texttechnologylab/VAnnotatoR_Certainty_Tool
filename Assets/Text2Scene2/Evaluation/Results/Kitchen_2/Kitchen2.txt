@@ -1,0 +1,16 @@
+Word|PartNet|PartNetFail|Disambiguation|DisambiguationFail
+kitchen|dwelling||kitchen|
+kitchen|dwelling||kitchen|
+middle|torso||kitchen|
+end|interceptor||kitchen|
+stove|stove|1|kitchen|1
+kitchen|dwelling||kitchen|
+kitchen|dwelling||kitchen|
+cupboards|cupboards|1|kitchen|1
+oven|stove|0|kitchen|1
+dishwasher|dishwasher|1|kitchen|1
+cupboards|hirschsprung|0|kitchen|1
+sink|sink|1|kitchen|1
+objects|objects||kitchen|
+corner|basson||kitchen|
+fridge|fridge|1|kitchen|1

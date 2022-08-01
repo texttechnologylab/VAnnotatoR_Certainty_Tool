@@ -1,0 +1,8 @@
+{
+  "displayName": "VAnnotatoR Core",
+  "name": "com.ttlab-frankfurt.vannotator-core",
+  "version": "0.1.0",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.1"
+  }
+}

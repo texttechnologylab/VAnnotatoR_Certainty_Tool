@@ -1,0 +1,16 @@
+Word|PartNet|PartNetFail|Disambiguation|DisambiguationFail
+kitchen|dwelling||moniz|
+kitchen|dwelling||minuscule|
+middle|torso||stores|
+end|a-day||office_chair|
+stove|stove|1|half-hearted|0
+kitchen|dwelling||anita|
+kitchen|dwelling||counter-terrorist|
+cupboards|cupboards|1|troon|0
+oven|stove|0|multifaith|0
+dishwasher|dishwasher|1|zimonjic|0
+cupboards|cupboards|1|exploration|0
+sink|sink|1|cropped|0
+objects|objects||lone|
+corner|saharan||will|
+fridge|fridge|1|round_table|0

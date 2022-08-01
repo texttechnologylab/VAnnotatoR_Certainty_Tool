@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IsoEntity" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQkAAABAAAAAAAAAAAAAAQAAAAAAQABAAACQAY=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoBaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoEvent" Collapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACKgACAAAAAAACAAIkgEEAAAACgAAADQQBA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoBaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoSignal" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoBaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLink" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQkAAAAABAAAAAAAAAgAAQDEBAAAAAAAAAAEIQ=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoBaseClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoSpatialEntity" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAgACAgAKAkAAIAATIAIkgCEwnAADABAgHQQBA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLocation" Collapsed="true">
+    <Position X="12.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLocationPath" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAgAAAAAAAQAAAAAAAAEAgAAAAIAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLocationPlace" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAAAgAAAAAAAAAAQAAAIgEBABAACABAAAQEA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoEventPath" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAwAAgABAAAAAQAgAAAAABEAgAAAAIAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoMeasure" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAgAgAAIAAAAAAAAAAAEAAAAAAgAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoSpatialSignal" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAAAAgAAAAAAAQAAAAAAAAEAAAABAAAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoMotionSignal" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAgAAAAAAAAAAAAAAAAEAgAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoMotion" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAgAAAAAAAkAAAAAAAAEgQAAAAAAAECQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoNonMotionEvent" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoQsLink" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoOLink" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAACAAAAAAAAAAAAAAAIBAAAAAAAABAAAAAIAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoMLink" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoMoveLink" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAAAEAAAAAAIAAAAEAEAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Text2Scene\Scripts\Classes\SemAFClasses\IsoSpaceClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text2Scene.ClassifiedObject" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAAAAAAAAAgAAAAAAAAAAAAJCAABAAAAAAAiA=</HashCode>
+      <FileName>Assets\Text2Scene2\Scripts\IsoClasses\ClassifiedObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

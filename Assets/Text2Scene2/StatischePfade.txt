@@ -1,0 +1,13 @@
+Evaluate.cs
+	- Ordner in dem die Texte liegen (Z.23)
+	- Ausgabepfad für die Ergebnisse (Z.46)
+
+TextInteraction.cs
+	- Pipeline für BERT anpassen, indem der Modulname abgeändert wird (Z.18)
+	- Statischer XMI Import in TI Request abändern (Z.63-76 und Z.98-111)
+
+TrainingsScript.cs
+	- Falls Wörter in Glove hinzugefügt werden sollen, kann die Vektordarstellung hier vorerst abgespeichert werden (Z.51)
+
+SemiSupervisedPartNet.cs
+	- AusgabePfad für die Ausgaben durch das Netz (Z.142 und Z.155)
