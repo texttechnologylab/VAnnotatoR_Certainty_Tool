@@ -14,12 +14,12 @@ Select the right address
 # Cite
 If you want to use the Project, please quote this as follows:
 
-Tom Krüger. Implementierung und Visualisierung informationeller Ungewissheit in virtuellen Umgebungen , bachelor’s thesis, Frankfurt, Germany, 2022. [LINK](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/68192) [PDF](https://publikationen.ub.uni-frankfurt.de/files/68192/BA_veroeffentlichung.pdf)
+Tom Krüger. Implementierung und Visualisierung informationeller Ungewissheit in virtuellen Umgebungen , bachelor’s thesis, Frankfurt, Germany, 2022. [[LINK]](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/68192) [[PDF]](https://publikationen.ub.uni-frankfurt.de/files/68192/BA_veroeffentlichung.pdf)
 
-C. Spiekermann, G. Abrami, and A. Mehler, “VAnnotatoR: a Gesture-driven Annotation Framework for Linguistic and Multimodal Annotation,” in Proceedings of the Annotation, Recognition and Evaluation of Actions (AREA 2018) Workshop, 2018.  [PDF](https://www.texttechnologylab.org/wp-content/uploads/2018/03/VAnnotatoR.pdf).
+C. Spiekermann, G. Abrami, and A. Mehler, “VAnnotatoR: a Gesture-driven Annotation Framework for Linguistic and Multimodal Annotation,” in Proceedings of the Annotation, Recognition and Evaluation of Actions (AREA 2018) Workshop, 2018.  [[PDF]](https://www.texttechnologylab.org/wp-content/uploads/2018/03/VAnnotatoR.pdf).
 
 G. Abrami, A. Mehler, and C. Spiekermann, “Graph-based Format for Modeling Multimodal Annotations in Virtual Reality by Means of VAnnotatoR,” in Proceedings of the 21th International Conference on Human-Computer Interaction, HCII 2019, Cham, 2019, pp. 351-358.
-[PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-030-30712-7_44.pdf)
+[[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-30712-7_44.pdf)
 
 For Text2SceneVR in addition:
 
