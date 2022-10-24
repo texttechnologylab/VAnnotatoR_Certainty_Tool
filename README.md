@@ -1,8 +1,10 @@
-# VAnnotatoR
+# VAnnotatoR: Certainty-Tool
 
-Unity Version: 2019.3.0f6
+## Abstract
+In der Arbeit wird das Certainty-Tool, eine Erweiterung für den Unity-basierten Teil des Stolperwege Projektes, vorgestellt. Dieses verfolgt die Idee des VAnnotatoR weiter und erlaubt die Visualisierung von informationeller Ungewissheit der im Stolperwege-Praktikum digital rekonstruierten Gebäude. Dabei inkorporiert das Tool das Konzept hinter BIM (Building Information Modelling), eine neuartige Methode der Planung in der AEC-Branche, welches ein Selbstbewusstsein von Informationen für Teile eines Gebäudes ermöglicht. Dabei werden im Certainty-Tool Stufen der informationellen Ungewissheit entwickelt und diese auf Teile des Gebäudes zugewiesen. Das Tool wird anhand einer digitalen Rekonstruktion des zerstörten Rothschild-Palais vorgestellt. Des Weiteren wurde eine Evaluation basierend auf der Usability Metric for User Experience durchgeführt und weiterführende Entwicklungen und Verbesserungen des Tools diskutiert.
 
-[Blender](https://www.blender.org/) must be installed
+[![version](https://img.shields.io/badge/unity-2019.3.0f6-brightgreen)]()
+[![blender](https://img.shields.io/badge/blender-yes-orange)](https://www.blender.org/)
 
 # Setup
 
@@ -11,6 +13,8 @@ Select the right address
 
 # Cite
 If you want to use the Project, please quote this as follows:
+
+Tom Krüger. Implementierung und Visualisierung informationeller Ungewissheit in virtuellen Umgebungen , bachelor’s thesis, Frankfurt, Germany, 2022. [LINK](https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/68192) [PDF](https://publikationen.ub.uni-frankfurt.de/files/68192/BA_veroeffentlichung.pdf)
 
 C. Spiekermann, G. Abrami, and A. Mehler, “VAnnotatoR: a Gesture-driven Annotation Framework for Linguistic and Multimodal Annotation,” in Proceedings of the Annotation, Recognition and Evaluation of Actions (AREA 2018) Workshop, 2018.  [PDF](https://www.texttechnologylab.org/wp-content/uploads/2018/03/VAnnotatoR.pdf).
 
