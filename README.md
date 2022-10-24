@@ -1,13 +1,13 @@
 # VAnnotatoR: Certainty-Tool
 
-## Abstract
-In der Arbeit wird das Certainty-Tool, eine Erweiterung für den Unity-basierten Teil des Stolperwege Projektes, vorgestellt. Dieses verfolgt die Idee des VAnnotatoR weiter und erlaubt die Visualisierung von informationeller Ungewissheit der im Stolperwege-Praktikum digital rekonstruierten Gebäude. Dabei inkorporiert das Tool das Konzept hinter BIM (Building Information Modelling), eine neuartige Methode der Planung in der AEC-Branche, welches ein Selbstbewusstsein von Informationen für Teile eines Gebäudes ermöglicht. Dabei werden im Certainty-Tool Stufen der informationellen Ungewissheit entwickelt und diese auf Teile des Gebäudes zugewiesen. Das Tool wird anhand einer digitalen Rekonstruktion des zerstörten Rothschild-Palais vorgestellt. Des Weiteren wurde eine Evaluation basierend auf der Usability Metric for User Experience durchgeführt und weiterführende Entwicklungen und Verbesserungen des Tools diskutiert.
-
 [![version](https://img.shields.io/badge/unity-2019.3.0f6-brightgreen)]()
 [![blender](https://img.shields.io/badge/blender-yes-orange)](https://www.blender.org/)
 
-# Setup
 
+## Abstract
+In der Arbeit wird das Certainty-Tool, eine Erweiterung für den Unity-basierten Teil des Stolperwege Projektes, vorgestellt. Dieses verfolgt die Idee des VAnnotatoR weiter und erlaubt die Visualisierung von informationeller Ungewissheit der im Stolperwege-Praktikum digital rekonstruierten Gebäude. Dabei inkorporiert das Tool das Konzept hinter BIM (Building Information Modelling), eine neuartige Methode der Planung in der AEC-Branche, welches ein Selbstbewusstsein von Informationen für Teile eines Gebäudes ermöglicht. Dabei werden im Certainty-Tool Stufen der informationellen Ungewissheit entwickelt und diese auf Teile des Gebäudes zugewiesen. Das Tool wird anhand einer digitalen Rekonstruktion des zerstörten Rothschild-Palais vorgestellt. Des Weiteren wurde eine Evaluation basierend auf der Usability Metric for User Experience durchgeführt und weiterführende Entwicklungen und Verbesserungen des Tools diskutiert.
+
+# Setup
 TextAnnotator/Scripts/TextAnnotatorInterface.cs:29
 Select the right address
 
