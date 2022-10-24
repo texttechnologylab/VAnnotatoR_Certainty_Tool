@@ -28,6 +28,19 @@ Giuseppe Abrami, Alexander Henlein,  Attila Kett, Alexander Mehler:
 
 # BibTeX
 ```
+
+@thesis{Krueger:2022,
+  author    = {Tom Kr{\"u}ger},
+  title     = {Implementierung und Visualisierung informationeller Ungewissheit in virtuellen Umgebungen},
+   institution = {Institute of Computer Science and Mathematics, Text Technology Lab},
+  address = {Frankfurt, Germany},
+  type = {bachelor's thesis},
+  pages     = {38},
+  year        = {2022},
+  pdf       = {https://publikationen.ub.uni-frankfurt.de/files/68192/BA_veroeffentlichung.pdf},
+  url       = {https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/68192}
+ }
+
 @InProceedings{Spiekerman:Abrami:Mehler:2018,
   Author         = {Christian Spiekermann and Giuseppe Abrami and Alexander Mehler},
   Title          = {{VAnnotatoR}: a Gesture-driven Annotation Framework for Linguistic and Multimodal Annotation},
